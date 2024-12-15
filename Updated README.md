@@ -1,7 +1,8 @@
-# 1208_assignment-1_Mongodb_Python
-Assignment-1
-Simple Mongo Queries to find basic insights out of a self made dataset implementing it into connection inside VS Code using PyMongo
-make connection with MongoDB and This assessment consists of 20 MongoDB queries, ranging from easy to hard. You are required to use the following sample data:
+## 1208_assignment-1_Mongodb_Python
+
+# Assignment-1
+              Simple Mongo Queries to find basic insights out of a self made dataset implementing it into connection inside VS Code using PyMongo
+              make connection with MongoDB and This assessment consists of 20 MongoDB queries, ranging from easy to hard. You are required to use the following sample data:
 
 {
     "students": [
